@@ -1,0 +1,9 @@
+﻿
+      key="AFServer" -- Имя AF сервера (например value="VMILIM")
+      key="AFDB"  Имя AF базы данных (например value="Koryazhma")
+      key="AFTree"  -- Имя ветки в AF дереве (например value="Контроль")
+      key="AFCategoryProductinoUnit"  -- Имя AF категории (например value="Оборудование производящее продукцию")
+      key="AFCategoryControl"  -- Имя AF категории (например value="Контроль")
+      key="ProductionUnit_Desc"  -- Имя атрибута AF элемента (например value="Код производственного участка")
+      key="AttributeNameForPITag"  -- Имя атрибута для тега PI (например value="Тэг PI")
+      key="MarkType"  -- Настройка для выделения на листе Excel 0-изменяется цвет шрифта, 1-изменяется цвет заливки (например value="1")
